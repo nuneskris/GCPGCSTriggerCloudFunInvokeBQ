@@ -1,0 +1,17 @@
+[
+  {
+    "tableViewName": "TTDIN",
+    "ouputBQDataset": "Ora2GSC2BQ",
+    "ouputBQTable": "TTDINV001100"
+  },
+  {
+    "tableViewName": "TTIITM",
+    "ouputBQDataset": "Ora2GSC2BQ",
+    "ouputBQTable": "TTIITM001100"
+  }
+]
+
+
+
+
+{"input.path":"gs://trigger_cloud_function_kfn_study_development/landing/2024-03-30/TTDIN/TTDINV0011003.csv","ouput.bqdataset": "Ora2GSC2BQ","ouput.bqtable": "TTDINV001100"}
